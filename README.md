@@ -1,2 +1,2 @@
 # Machine-Learning-Algorithm-From-Scratch
-Implementation of ML Algorithm
+Sharing My Implementation of ML Algorithm
